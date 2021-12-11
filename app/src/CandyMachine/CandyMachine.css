@@ -1,6 +1,8 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  width: 1200px;
+  color: rgb(199, 117, 11);
 }
 
 .gif-container {
